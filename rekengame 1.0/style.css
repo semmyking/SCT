@@ -1,0 +1,16 @@
+body {
+  background-color: lightgray;
+
+}
+
+div  {
+  color: blue;
+
+}
+
+img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
