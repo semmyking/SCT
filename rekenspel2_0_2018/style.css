@@ -1,0 +1,22 @@
+body{
+  background-color: powderblue;
+}
+
+.wrapper{
+  background-color: purple;
+}
+div{
+  background-color: yellow;
+  font-family: fantasy;
+}
+h1 {
+  color: yellow;
+}
+
+.goed {
+  background-color: green;
+}
+
+.fout {
+  background-color: red;
+}
